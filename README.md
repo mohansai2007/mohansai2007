@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mohan Sai
 
-<!--
-**mohansai2007/mohansai2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student interested in Software Development, Data Analytics and AI.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently pursuing B.Tech
+- Learning Data Structures and Algorithms
+- Interested in Full Stack Development and AI
+- Building projects and improving my problem-solving skills
+
+## Skills
+
+- Python
+- Java
+- C
+- C++
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- SQL
+- Git & GitHub
+
+## Projects
+
+### Personal Portfolio
+My personal portfolio website built with Next.js, React, TypeScript and Tailwind CSS.
+
+[View Portfolio](YOUR-NETLIFY-URL)
+
+## Connect With Me
+
+- GitHub: https://github.com/mohansai2007
+- LinkedIn: YOUR-LINKEDIN-URL
